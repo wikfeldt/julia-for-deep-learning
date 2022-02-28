@@ -1,4 +1,4 @@
-# Deep Learning in Julia
+# Machine Learning in Julia
 
 Teaching material for ENCCS workshop
 
